@@ -29,4 +29,4 @@
 |16|[Super Resolution GAN](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E16_SRGAN.ipynb)|GAN|SRGAN||
 |17|[KorQuAD BERT](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E17_KorQuAD_BERT.ipynb)|NLP|BERT|KorQuAD|
 |18|[OCR_Verification](https://github.com/babeebird/AIFFEL_Exploration/blob/master/Ex18_OCR_verification.ipynb)|CV|OCR|unsplash|
-|19|||||
+|19|[Pix2Pix](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E19_Pix2Pix_SegmentationMap.ipynb)|GAN|Pix2Pix|cityscapes dataset(image segmented)|
