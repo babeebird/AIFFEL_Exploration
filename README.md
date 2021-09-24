@@ -12,7 +12,7 @@
 |#|Title|category||Dataset|
 |--|--|--|--|--|
 |1|[Rock Scissor Paper Classifier](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E01_Rock_Scissor_Paper_Classifier.ipynb)|CV|LeNet||
-|2|[Scikit_Classifier](https://github.com/babeebird/AIFFEL_Exploration/tree/master/E02_Scikit_Classifier)|ML||Scikit|
+|**2**|[Scikit_Classifier](https://github.com/babeebird/AIFFEL_Exploration/tree/master/E02_Scikit_Classifier)|ML||Scikit|
 |3|[Cat Whiskers Sticker](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E03_Cat_Whiskers_Sticker_App.ipynb)|CV|Dlib||
 |4|[Lyricist](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E04_Lyricist_LanguagModel.ipynb)|NLP|LSTM||
 |5|[Find Similar Face](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E05_FindSimilarFace.ipynb)|CV|Face Recognition||
@@ -25,8 +25,8 @@
 |12|[Session Based Recommendation](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E12_Movielen_SBR.ipynb)|Recommendation System|SBR|Movielens|
 |13|[CIFAR-10 GAN](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E13_CIFAR-10_GAN.ipynb)|GAN|DCGAN|CIFAR-10|
 |14|[TimeSeries Prediction](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E14_TimeSeries_Prediction.ipynb)|Stock TimeSeries|ARIMA|Yahoo Finance|
-|15|[Counselor ChatBot](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E15_ChatBot_Transformer.ipynb)|NLP|Transformer|songys|
+|**15**|[Counselor ChatBot](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E15_ChatBot_Transformer.ipynb)|NLP|Transformer|songys|
 |16|[Super Resolution GAN](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E16_SRGAN.ipynb)|GAN|SRGAN||
-|17|[KorQuAD BERT](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E17_KorQuAD_BERT.ipynb)|NLP|BERT|KorQuAD|
-|18|[OCR_Verification](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E18_OCR_verification.ipynb)|CV|OCR|unsplash|
+|**17**|[KorQuAD BERT](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E17_KorQuAD_BERT.ipynb)|NLP|BERT|KorQuAD|
+|**18**|[OCR_Verification](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E18_OCR_verification.ipynb)|CV|OCR|unsplash|
 |19|[Pix2Pix](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E19_Pix2Pix_SegmentationMap.ipynb)|GAN|Pix2Pix|cityscapes dataset(image segmented)|
