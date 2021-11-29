@@ -10,10 +10,10 @@
 
   
 **우수상 수상 노드** 바로가기 =>     
-[Scikit_Classifier, 사이킷런 예제실습](https://github.com/babeebird/AIFFEL_Exploration/tree/master/E02_Scikit_Classifier),   
-[Counselor ChatBot, 위로하는 챗봇 말랑이](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E15_ChatBot_Transformer.ipynb),   
-[KorQuAD BERT, 문답하는 버~트](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E17_KorQuAD_BERT.ipynb),   
-[OCR_Verification, 손글씨를 검출해라!](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E18_OCR_verification.ipynb)        
+* [Scikit_Classifier, 사이킷런 예제실습](https://github.com/babeebird/AIFFEL_Exploration/tree/master/E02_Scikit_Classifier),   
+* [Counselor ChatBot, 위로하는 챗봇 말랑이](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E15_ChatBot_Transformer.ipynb),   
+* [KorQuAD BERT, 문답하는 버~트](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E17_KorQuAD_BERT.ipynb),   
+* [OCR_Verification, 손글씨를 검출해라!](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E18_OCR_verification.ipynb)        
 
   
 |#|Title|category||Dataset|
