@@ -7,7 +7,7 @@
 
 안녕하세요 ~ 느티입니다.   
 이곳은 느티의 첫 AI Project를 기록하는 공간입니다.
-
+**우수노드** 바로가기 => [Scikit_Classifier](https://github.com/babeebird/AIFFEL_Exploration/tree/master/E02_Scikit_Classifier), [Counselor ChatBot](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E15_ChatBot_Transformer.ipynb), [KorQuAD BERT](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E17_KorQuAD_BERT.ipynb), [OCR_Verification](https://github.com/babeebird/AIFFEL_Exploration/blob/master/E18_OCR_verification.ipynb)    
 
 |#|Title|category||Dataset|
 |--|--|--|--|--|
